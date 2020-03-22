@@ -1,0 +1,2 @@
+# ydridi
+homework6
